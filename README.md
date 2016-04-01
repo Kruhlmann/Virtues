@@ -15,12 +15,19 @@ To view the hidden data unprotect the sheet and then set the text color of the c
 
 ### Portal Map
 Force       - 1: Balance     2: Spirit
+
 Balance     - 1: Patience    2: Wisdom
+
 Wisdom      - 1: Passion     2: Patience
+
 Tranquility - 1: Focus       2: Passion
+
 Spirit      - 1: Tranquility 2: Wisdom
+
 Focus       - 1: Balance     2: End
+
 Passion     - 1: Spirit      2: Patience
+
 Patience    - 1: Force       2: Force
 
 Optimal route:
